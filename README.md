@@ -29,7 +29,8 @@ Stock Wise is a web application that helps users make informed stock market deci
 - Supabase project  
 - Clerk account  
 - Falcon API access
-'''
+
+
 ## Installation
 
 1. Clone the repository  
