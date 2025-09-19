@@ -1,9 +1,9 @@
 ```markdown
-# Stock Wise
+Stock Wise
 
 Stock Wise is a web application that helps users make informed stock market decisions by providing estimated stock values, detailed analysis, and personalized advice. It features secure authentication, user-friendly interfaces, and real-time market insights.
 
-## Features
+Features
 
 - Secure user login and signup with Clerk  
 - Input stock name and quantity to track investments  
@@ -13,7 +13,7 @@ Stock Wise is a web application that helps users make informed stock market deci
 - Responsive UI with animations powered by Framer Motion  
 - Cloud deployment with Vercel for global accessibility  
 
-## Tech Stack
+Tech Stack
 
 - Frontend: Next.js, Tailwind CSS, React Bits, Framer Motion  
 - Backend & Database: Supabase, Clerk  
@@ -31,7 +31,7 @@ Stock Wise is a web application that helps users make informed stock market deci
 - Falcon API access
 
 
-## Installation
+Installation
 
 1. Clone the repository  
    ```
@@ -61,13 +61,13 @@ Stock Wise is a web application that helps users make informed stock market deci
    ```
    Open [http://localhost:3000](http://localhost:3000) to view in the browser.
 
-### Deployment
+Deployment
 
 - Connect the repository to Vercel  
 - Configure environment variables in Vercel dashboard  
 - Deploy with automatic build and release  
 
-## License
+License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
