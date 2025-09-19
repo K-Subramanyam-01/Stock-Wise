@@ -1,5 +1,3 @@
-Here is a professional and concise README.md template for your Stock Wise project suitable for GitHub:
-
 ```markdown
 # Stock Wise
 
@@ -21,8 +19,6 @@ Stock Wise is a web application that helps users make informed stock market deci
 - Backend & Database: Supabase, Clerk  
 - Data Integration: Falcon datasets  
 - Deployment: Vercel  
-
-## Getting Started
 
 ### Prerequisites
 
