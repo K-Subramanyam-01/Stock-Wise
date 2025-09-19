@@ -20,28 +20,32 @@ Stock Wise is a web application that helps users make informed stock market deci
 - Data Integration: Falcon datasets  
 - Deployment: Vercel  
 
+## Getting Started
+
 ### Prerequisites
 
 - Node.js (v18 or higher)  
 - Vercel account  
 - Supabase project  
 - Clerk account  
-- Falcon API access  
+- Falcon API access
 
-### Installation
+## Installation
 
 1. Clone the repository  
    ```
    git clone <repository_url>
+   ```
+2. Navigate to the project directory  
+   ```
    cd stock-wise
    ```
-
-2. Install dependencies  
+3. Install dependencies  
    ```
    npm install
    ```
 
-3. Setup environment variables in `.env.local`  
+4. Setup environment variables in `.env.local`  
    ```
    NEXT_PUBLIC_SUPABASE_URL=<your_supabase_url>
    NEXT_PUBLIC_SUPABASE_ANON_KEY=<your_supabase_anon_key>
@@ -50,7 +54,7 @@ Stock Wise is a web application that helps users make informed stock market deci
    FALCON_API_KEY=<your_falcon_key>
    ```
 
-4. Run the development server  
+5. Run the development server  
    ```
    npm run dev
    ```
@@ -65,3 +69,9 @@ Stock Wise is a web application that helps users make informed stock market deci
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Contact
+
+For questions or feedback, contact the project team.
+```
